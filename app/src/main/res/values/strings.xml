@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RentAcar</string>
+    <string name="choose_car_make">Choose Car Make</string>
+    <string name="choose_model">Choose Model</string>
+    <string name="daily_rate">Daily Rate</string>
+    <string name="current_millage">Current Millage</string>
+    <string name="choose_renting_days">Choose Number of Days</string>
+    <string name="car_image">Car Image</string>
+    <string name="driver_age">Driver Age</string>
+    <string name="less_than_21">less than 21</string>
+    <string name="_22_64">22 -64</string>
+    <string name="greater_than_or_equal_to_65">greater than 65</string>
+    <string name="navigator">Navigator</string>
+    <string name="child_seat">Child Seat</string>
+    <string name="bike_rake">Bike Rake</string>
+    <string name="extras">Extras</string>
+    <string name="rentacar">Rent-A-car</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="_0">0</string>
+    <string name="get_amount">Get Total</string>
+    <string name="rent_car">Rent Car</string>
+</resources>
